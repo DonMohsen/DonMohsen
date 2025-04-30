@@ -30,17 +30,18 @@
 <div align="center">
   <div align="center">
 
-    
-# 📊 GitHub Stats:
-  </div>
-    <div align="center">
+<h2>📊 GitHub Stats</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=donmohsen&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=donmohsen&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=donmohsen&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=donmohsen&theme=aura&hide_border=true&include_all_commits=false&count_private=false" style="display: inline-block;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=donmohsen&theme=aura&hide_border=true" style="display: inline-block;" />
+</div>
 
-  </div>
-  
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donmohsen&theme=aura&hide_border=true&layout=compact" />
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=donmohsen&theme=aura&no-frame=true&no-bg=true&margin-w=4)
