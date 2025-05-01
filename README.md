@@ -7,14 +7,13 @@
 <h2>🌐 Socials</h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohsenova) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohsenkhojastehnezhad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohsen-khojasteh-nezhad)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/donmohsen) 
 [![Telegram](https://img.shields.io/badge/Telegram-f7f8fa?logo=telegram)](https://t.me/DonMohsen) 
 [![Gmail](https://img.shields.io/badge/Gmail-333333.svg?logo=gmail&logoColor=red)](mailto:mohsenkhojastehnezhad@gmail.com)
 
 </div>
 
-<br/>
 
 <div align="center">
 
