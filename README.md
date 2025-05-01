@@ -1,10 +1,8 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=DynaPuff&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Mohsen+Khojasteh+nezhad+!;" />
 
-<hr>
-<div align="center">
 
-<h2>🌐 Socials</h2>
+<div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohsenova) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohsen-khojasteh-nezhad)
@@ -22,7 +20,10 @@
 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,postgresql" title="R, MySQL, SQLite"/></a></div> | <div align="center"></div> | <div align="center"></div> | <div align="center"></div> | <div align="center"></div> | 
      
 <hr>
-
+<div align="center">
+  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DonMohsen&theme=kimbie_dark" alt="davevad93"/></a></p>
+</div> 
+<hr>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api/top-langs?username=DonMohsen&show_icons=true&locale=en&layout=compact&langs_count=16&title_color=62c1ec&text_color=62c1ec&border_color=62c1ec&theme=chartreuse-dark" alt="DonMohsen" width=460 /></a>
   <br>
@@ -37,12 +38,10 @@
 
 
 
+<hr>
 
 <div align="center">
   
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=donmohsen&theme=aura&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
