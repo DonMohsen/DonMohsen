@@ -32,9 +32,6 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats-davevad93s-projects.vercel.app/?user=DonMohsen&&border=62c1ec&stroke=62c1ec&ring=62c1ec&fire=00FF2B&currStreakNum=00FF2B&sideNums=00FF2B&currStreakLabel=00FF2B&sideLabels=00FF2B&dates=00FF2B&theme=chartreuse-dark" alt="davevad93" width=460 /></a>
 </div>
 
-[![Mohsen's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DonMohsen&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 
 
@@ -53,7 +50,8 @@
   <br>
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=donmohsen&icon=0&color=0)](https://visitcount.itsvg.in)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome&fontAlign=50&textBg=false&rotate=0&strokeWidth=0&reversal=true&section=footer&fontAlignY=61&descAlign=0&descAlignY=0"/>
+
