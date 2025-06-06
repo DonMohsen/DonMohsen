@@ -21,8 +21,13 @@
      
 <hr>
 <div align="center">
-  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DonMohsen&theme=kimbie_dark" alt="reload-if-broken"/></a></p>
-</div> 
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=DonMohsen&theme=kimbie_dark&cache=now" alt="reload-if-broken"/>
+    </a>
+  </p>
+</div>
+
 <hr>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api/top-langs?username=DonMohsen&show_icons=true&locale=en&layout=compact&langs_count=16&title_color=62c1ec&text_color=62c1ec&border_color=62c1ec&theme=chartreuse-dark" alt="reload-if-broken" width=460 /></a>
