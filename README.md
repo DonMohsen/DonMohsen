@@ -20,13 +20,7 @@
 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,postgresql" title="Mongodb, Postgresql"/></a></div> | <div align="center"></div> | <div align="center"></div> | <div align="center"></div> | <div align="center"></div> | 
      
 <hr>
-<div align="center">
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=DonMohsen&theme=kimbie_dark&cache=now" alt="reload-if-broken"/>
-    </a>
-  </p>
-</div>
+
 
 <hr>
 <div align="center">
