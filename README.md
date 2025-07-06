@@ -4,11 +4,11 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohsenova) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohsen-khojasteh-nezhad)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/donmohsen) 
-[![Telegram](https://img.shields.io/badge/Telegram-f7f8fa?logo=telegram)](https://t.me/DonMohsen) 
-[![Gmail](https://img.shields.io/badge/Gmail-333333.svg?logo=gmail&logoColor=red)](mailto:mohsenkhojastehnezhad@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mohsenova)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohsen-khojasteh-nezhad)
+[![🌐 Website](https://img.shields.io/badge/🌐%20Portfolio%20Website-000000.svg?style=flat)](https://donmohsen.ir)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=flat&logo=telegram&logoColor=white)](https://t.me/DonMohsen)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=gmail&logoColor=white)](mailto:mohsenkhojastehnezhad@gmail.com)
 
 </div>
 <hr>
