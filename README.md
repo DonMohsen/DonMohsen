@@ -30,9 +30,9 @@
 
 <hr>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api/top-langs?username=DonMohsen&show_icons=true&locale=en&layout=compact&langs_count=16&title_color=62c1ec&text_color=62c1ec&border_color=62c1ec&theme=chartreuse-dark" alt="Most Used Languages" width=460 /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonMohsen&amp;layout=compact&amp;langs_count=8&amp;title_color=62c1ec&amp;text_color=62c1ec&amp;border_color=62c1ec&amp;theme=chartreuse-dark" alt="Most Used Languages" width="460" /></a>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api?username=DonMohsen&show_icons=true&locale=en&title_color=62c1ec&text_color=62c1ec&icon_color=62c1ec&border_color=62c1ec&theme=chartreuse-dark&show=discussions_answered,prs_merged,reviews&include_all_commits=true" alt="GitHub Stats" width=460 /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/?username=DonMohsen&amp;show_icons=true&amp;title_color=62c1ec&amp;text_color=62c1ec&amp;icon_color=62c1ec&amp;border_color=62c1ec&amp;theme=chartreuse-dark&amp;show=discussions_answered,prs_merged,reviews&amp;include_all_commits=true" alt="GitHub Stats" width="460" /></a>
   
   <br>
  
