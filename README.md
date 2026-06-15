@@ -33,9 +33,9 @@
 <div style="height: 4px;"></div>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonMohsen&amp;layout=compact&amp;langs_count=8&amp;title_color=62c1ec&amp;text_color=62c1ec&amp;border_color=62c1ec&amp;theme=chartreuse-dark" alt="Most Used Languages" width="460" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-top-langs.svg" alt="Most Used Languages" width="460" /></a>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/?username=DonMohsen&amp;show_icons=true&amp;title_color=62c1ec&amp;text_color=62c1ec&amp;icon_color=62c1ec&amp;border_color=62c1ec&amp;theme=chartreuse-dark&amp;show=discussions_answered,prs_merged,reviews&amp;include_all_commits=true" alt="GitHub Stats" width="460" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-stats.svg" alt="GitHub Stats" width="460" /></a>
   
   <br>
  

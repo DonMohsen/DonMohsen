@@ -2,8 +2,8 @@ name: Generate Profile Assets
 
 on:
   schedule:
-    # every 12 hours
-    - cron: "0 */12 * * *"
+    # every 15 minutes
+    - cron: "*/15 * * * *"
   workflow_dispatch:
   push:
     branches:
@@ -43,6 +43,8 @@ jobs:
           mkdir -p assets
           cp dist/* assets/
           cp github-profile-trophy.svg assets/github-profile-trophy.svg
+          curl -fsSL "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&langs_count=8&title_color=62c1ec&text_color=62c1ec&border_color=62c1ec&theme=chartreuse-dark" -o assets/github-top-langs.svg
+          curl -fsSL "https://github-readme-stats.vercel.app/api/?username=${{ github.repository_owner }}&show_icons=true&title_color=62c1ec&text_color=62c1ec&icon_color=62c1ec&border_color=62c1ec&theme=chartreuse-dark&show=discussions_answered,prs_merged,reviews&include_all_commits=true" -o assets/github-stats.svg
 
       - name: Push assets to output branch
         uses: crazy-max/ghaction-github-pages@v5
