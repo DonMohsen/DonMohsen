@@ -12,7 +12,7 @@
 
 </div>
 
-<div style="height: 4px;"></div>
+<div style="height: 8px;"></div>
 
 | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Frameworks)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=200&lines=IDEs)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Tools)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Operating+Systems)](https://git.io/typing-svg) |
 | ----- | ---- | ---- | ---- | ---- |
@@ -20,7 +20,7 @@
 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css" title="HTML, CSS"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" title="Express"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" title="Docker"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=debian" title="Debian"/></a></div> |
 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" title="C#"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet" title="ASP.NET Core"/></a></div> | <div align="center"></div> | <div align="center"></div> | <div align="center"></div> | 
 
-<div style="height: 4px;"></div>
+<div style="height: 8px;"></div>
 
 <div align="center">
   <p align="center">
@@ -30,7 +30,7 @@
   </p>
 </div>
 
-<div style="height: 4px;"></div>
+<div style="height: 8px;"></div>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-top-langs.svg" alt="Most Used Languages" width="460" /></a>
@@ -41,7 +41,7 @@
  
 </div>
 
-<div style="height: 4px;"></div>
+<div style="height: 8px;"></div>
 
 <div align="center">
 <h1>🐍 My Contributions 🐍</h1>
