@@ -25,7 +25,7 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-profile-trophy.svg" alt="GitHub Trophies"/>
+      <img src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-profile-trophy.svg?v=2" alt="GitHub Trophies"/>
     </a>
   </p>
 </div>
@@ -33,9 +33,9 @@
 <div style="height: 8px;"></div>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-top-langs.svg" alt="Most Used Languages" width="460" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-top-langs.svg?v=2" alt="Most Used Languages" width="460" /></a>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-stats.svg" alt="GitHub Stats" width="460" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-stats.svg?v=2" alt="GitHub Stats" width="460" /></a>
   
   <br>
  
@@ -46,7 +46,7 @@
 <div align="center">
 <h1>🐍 My Contributions 🐍</h1>
   <br>
- <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-contribution-grid-snake.svg" />
+ <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-contribution-grid-snake.svg?v=2" />
   
   <br/><br/>
 </div>

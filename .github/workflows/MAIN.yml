@@ -60,6 +60,15 @@ jobs:
           path: assets/github-top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Validate generated stats cards
+        run: |
+          for file in assets/github-stats.svg assets/github-top-langs.svg; do
+            if grep -q "Something went wrong" "$file"; then
+              echo "Error card detected in $file"
+              exit 1
+            fi
+          done
+
       - name: Push assets to output branch
         uses: crazy-max/ghaction-github-pages@v5
         with:
