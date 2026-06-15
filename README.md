@@ -23,16 +23,16 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=DonMohsen&theme=kimbie_dark&cache=now" alt="reload-if-broken"/>
+      <img src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-profile-trophy.svg" alt="GitHub Trophies"/>
     </a>
   </p>
 </div>
 
 <hr>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api/top-langs?username=DonMohsen&show_icons=true&locale=en&layout=compact&langs_count=16&title_color=62c1ec&text_color=62c1ec&border_color=62c1ec&theme=chartreuse-dark" alt="reload-if-broken" width=460 /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api/top-langs?username=DonMohsen&show_icons=true&locale=en&layout=compact&langs_count=16&title_color=62c1ec&text_color=62c1ec&border_color=62c1ec&theme=chartreuse-dark" alt="Most Used Languages" width=460 /></a>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api?username=DonMohsen&show_icons=true&locale=en&title_color=62c1ec&text_color=62c1ec&icon_color=62c1ec&border_color=62c1ec&theme=chartreuse-dark&show=discussions_answered,prs_merged,reviews&include_all_commits=true" alt="reload-if-broken" width=460 /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api?username=DonMohsen&show_icons=true&locale=en&title_color=62c1ec&text_color=62c1ec&icon_color=62c1ec&border_color=62c1ec&theme=chartreuse-dark&show=discussions_answered,prs_merged,reviews&include_all_commits=true" alt="GitHub Stats" width=460 /></a>
   
   <br>
  
@@ -47,7 +47,7 @@
 <div align="center">
 <h1>🐍 My Contributions 🐍</h1>
   <br>
- <img alt="reload-if-broken" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-contribution-grid-snake.svg" />
+ <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-contribution-grid-snake.svg" />
   
   <br/><br/>
 </div>
