@@ -11,15 +11,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=gmail&logoColor=white)](mailto:mohsenkhojastehnezhad@gmail.com)
 
 </div>
-<hr>
 
 | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Frameworks)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=200&lines=IDEs)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Tools)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Operating+Systems)](https://git.io/typing-svg) |
 | ----- | ---- | ---- | ---- | ---- |
 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js" title="Typescript, Javascript"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs" title="Nextjs"/></a></div>| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" title="Git, GitHub"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows" title="Windows"/></a></div> |
 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css" title="HTML, CSS"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" title="Express"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" title="Docker"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=debian" title="Debian"/></a></div> |
 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" title="C#"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet" title="ASP.NET Core"/></a></div> | <div align="center"></div> | <div align="center"></div> | <div align="center"></div> | 
-     
-<hr>
+
 <div align="center">
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -28,7 +26,6 @@
   </p>
 </div>
 
-<hr>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonMohsen&amp;layout=compact&amp;langs_count=8&amp;title_color=62c1ec&amp;text_color=62c1ec&amp;border_color=62c1ec&amp;theme=chartreuse-dark" alt="Most Used Languages" width="460" /></a>
   <br>
@@ -43,7 +40,6 @@
 
 
 
----
 <div align="center">
 <h1>🐍 My Contributions 🐍</h1>
   <br>
