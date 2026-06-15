@@ -2,7 +2,7 @@ name: Generate Profile Assets
 
 on:
   schedule:
-  # every 12 hours
+    # every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -20,6 +20,13 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v4
 
+      - name: Generate trophy card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: "username=${{ github.repository_owner }}&theme=kimbie_dark"
+          path: github-profile-trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate snake animations
         uses: Platane/snk@v3
         with:
@@ -31,12 +38,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate trophy card
-        uses: soulteary/github-profile-trophy-action@v1.0.0
-        with:
-          options: "username=${{ github.repository_owner }}&theme=kimbie_dark"
-          path: dist/github-profile-trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Add trophy to dist
+        run: cp github-profile-trophy.svg dist/github-profile-trophy.svg
 
       - name: Push assets to output branch
         uses: crazy-max/ghaction-github-pages@v5
