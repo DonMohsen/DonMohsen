@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=DynaPuff&size=35&center=true&vCenter=true&width=435&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Mohsen+Khojasteh+nezhad+!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=DynaPuff&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Mohsen+Khojasteh+nezhad+!;" />
 
 
 <div align="center">
@@ -14,31 +14,18 @@
 
 <div style="height: 8px;"></div>
 
-<div align="center">
-
-<p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=280&lines=Languages" alt="Languages" /></p>
-<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,html,css,cs" title="Typescript, Javascript, HTML, CSS, C#" /></a></p>
-
-<p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=280&lines=Frameworks" alt="Frameworks" /></p>
-<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,express,dotnet" title="Next.js, Express, ASP.NET Core" /></a></p>
-
-<p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=280&lines=IDEs" alt="IDEs" /></p>
-<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,visualstudio" title="Visual Studio Code, Visual Studio" /></a></p>
-
-<p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=280&lines=Tools" alt="Tools" /></p>
-<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker" title="Git, GitHub, Docker" /></a></p>
-
-<p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=280&lines=Operating+Systems" alt="Operating Systems" /></p>
-<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,debian" title="Windows, Debian" /></a></p>
-
-</div>
+| [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Frameworks)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=200&lines=IDEs)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Tools)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Operating+Systems)](https://git.io/typing-svg) |
+| ----- | ---- | ---- | ---- | ---- |
+| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js" title="Typescript, Javascript"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs" title="Nextjs"/></a></div>| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" title="Git, GitHub"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows" title="Windows"/></a></div> |
+| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css" title="HTML, CSS"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" title="Express"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" title="Docker"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=debian" title="Debian"/></a></div> |
+| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" title="C#"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet" title="ASP.NET Core"/></a></div> | <div align="center"></div> | <div align="center"></div> | <div align="center"></div> | 
 
 <div style="height: 8px;"></div>
 
 <div align="center">
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-profile-trophy.svg?v=3" alt="GitHub Trophies" style="max-width:100%; height:auto;" />
+      <img src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-profile-trophy.svg?v=2" alt="GitHub Trophies"/>
     </a>
   </p>
 </div>
@@ -46,9 +33,9 @@
 <div style="height: 8px;"></div>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-top-langs.svg?v=3" alt="Most Used Languages" width="460" style="max-width:100%; height:auto;" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-top-langs.svg?v=2" alt="Most Used Languages" width="460" /></a>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-stats.svg?v=3" alt="GitHub Stats" width="460" style="max-width:100%; height:auto;" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-stats.svg?v=2" alt="GitHub Stats" width="460" /></a>
   
   <br>
  
@@ -57,11 +44,11 @@
 <div style="height: 8px;"></div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=435&height=50&duration=3000&pause=1000&color=62c1ec&lines=🐍+My+Contributions+🐍" alt="My Contributions" style="max-width:100%; height:auto;" />
+<h1>🐍 My Contributions 🐍</h1>
   <br>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-contribution-grid-snake.svg?v=3" style="max-width:100%; height:auto;" />
+ <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-contribution-grid-snake.svg?v=2" />
   
   <br/><br/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome&fontAlign=50&textBg=false&rotate=0&strokeWidth=0&reversal=true&section=footer&fontAlignY=61&descAlign=0&descAlignY=0"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome&fontAlign=50&textBg=false&rotate=0&strokeWidth=0&reversal=true&section=footer&fontAlignY=61&descAlign=0&descAlignY=0"/>
