@@ -31,8 +31,8 @@
 <div style="height: 8px;"></div>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="160" alt="GitHub Stats" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-stats.svg?v=2" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="160" alt="Most Used Languages" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-top-langs.svg?v=2" /></a>
+  <img height="160" alt="DonMohsen's GitHub stats" src="https://github-readme-stats-erichare.vercel.app/api?username=DonMohsen&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=14b8a6&icon_color=14b8a6&text_color=768390&bg_color=00000000">
+  <img height="160" alt="Top languages" src="https://github-readme-stats-erichare.vercel.app/api/top-langs/?username=DonMohsen&layout=compact&hide_border=true&langs_count=8&hide=html,tex&title_color=14b8a6&text_color=768390&bg_color=00000000">
 </p>
 
 <div style="height: 8px;"></div>
