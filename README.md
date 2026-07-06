@@ -30,14 +30,10 @@
 
 <div style="height: 8px;"></div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-top-langs.svg?v=2" alt="Most Used Languages" width="460" />
-  <br>
-  <img src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-stats.svg?v=2" alt="GitHub Stats" width="460" />
-  
-  <br>
- 
-</div>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="160" alt="GitHub Stats" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-stats.svg?v=2" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="160" alt="Most Used Languages" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-top-langs.svg?v=2" /></a>
+</p>
 
 <div style="height: 8px;"></div>
 
