@@ -15,7 +15,7 @@
 <div style="height: 8px;"></div>
 
 <div align="center">
-  <img width="100%" alt="Tech stack" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/tech-stack-panel.svg?v=1"/>
+  <img width="100%" alt="Tech stack" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/tech-stack-panel.svg?v=2"/>
 </div>
 
 <div style="height: 8px;"></div>
