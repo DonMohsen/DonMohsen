@@ -40,7 +40,7 @@
   <tr>
     <td align="center"><img alt="C#, Python" src="https://skillicons.dev/icons?i=cs,python"/></td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"><img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi"/></td>
     <td align="center"><img alt="Ubuntu, Debian" src="https://skillicons.dev/icons?i=ubuntu,debian"/></td>
     <td align="center"></td>
   </tr>
