@@ -15,13 +15,13 @@
 <div style="height: 8px;"></div>
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="4">
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
   <tr>
-    <td align="center"><img height="28" alt="Languages" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&height=32&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Languages"/></td>
-    <td align="center"><img height="28" alt="Frontend and Mobile" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&height=32&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=280&lines=Frontend+%26+Mobile"/></td>
-    <td align="center"><img height="28" alt="Backend and Data" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&height=32&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=280&lines=Backend+%26+Data"/></td>
-    <td align="center"><img height="28" alt="Infrastructure and Delivery" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&height=32&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=400&lines=Infrastructure+%26+Delivery"/></td>
-    <td align="center"><img height="28" alt="AI and Workflow" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&height=32&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=280&lines=AI+%26+Workflow"/></td>
+    <td align="center"><img width="100%" height="32" alt="Languages" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&height=32&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=240&lines=Languages"/></td>
+    <td align="center"><img width="100%" height="32" alt="Frontend/Mobile" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&height=32&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=280&lines=Frontend%2FMobile"/></td>
+    <td align="center"><img width="100%" height="32" alt="Backend" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&height=32&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Backend"/></td>
+    <td align="center"><img width="100%" height="32" alt="Infrastructure" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&height=32&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=320&lines=Infrastructure"/></td>
+    <td align="center"><img width="100%" height="32" alt="AI and Workflow" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&height=32&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=260&lines=AI+%26+Workflow"/></td>
   </tr>
   <tr>
     <td align="center"><img alt="TypeScript, JavaScript" src="https://skillicons.dev/icons?i=ts,js"/></td>
