@@ -15,7 +15,36 @@
 <div style="height: 8px;"></div>
 
 <div align="center">
-  <img width="100%" alt="Tech stack" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/tech-stack-panel.svg?v=2"/>
+<table border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><img height="25" alt="Languages" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Languages"/></td>
+    <td align="center"><img height="25" alt="Frontend and Mobile" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=280&lines=Frontend+%26+Mobile"/></td>
+    <td align="center"><img height="25" alt="Backend and Data" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=280&lines=Backend+%26+Data"/></td>
+    <td align="center"><img height="25" alt="Infrastructure and Delivery" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=400&lines=Infrastructure+%26+Delivery"/></td>
+    <td align="center"><img height="25" alt="AI and Workflow" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=280&lines=AI+%26+Workflow"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img alt="TypeScript, JavaScript" src="https://skillicons.dev/icons?i=ts,js"/></td>
+    <td align="center"><img alt="Next.js, React" src="https://skillicons.dev/icons?i=nextjs,react"/></td>
+    <td align="center"><img alt="Express" src="https://skillicons.dev/icons?i=express"/></td>
+    <td align="center"><img alt="Git, GitHub, GitLab" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
+    <td align="center"><img alt="Visual Studio Code, Visual Studio" src="https://skillicons.dev/icons?i=vscode,visualstudio"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img alt="HTML, CSS" src="https://skillicons.dev/icons?i=html,css"/></td>
+    <td align="center"><img alt="Flutter, Kotlin" src="https://skillicons.dev/icons?i=flutter,kotlin"/></td>
+    <td align="center"><img alt="ASP.NET Core" src="https://skillicons.dev/icons?i=dotnet"/></td>
+    <td align="center"><img alt="Docker, GitHub Actions" src="https://skillicons.dev/icons?i=docker,githubactions"/></td>
+    <td align="center"><img alt="Claude Code, Cursor" src="https://skills.syvixor.com/api/icons?i=claudeai,cursor"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img alt="C#, Python" src="https://skillicons.dev/icons?i=cs,python"/></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"><img alt="Ubuntu, Debian" src="https://skillicons.dev/icons?i=ubuntu,debian"/></td>
+    <td align="center"></td>
+  </tr>
+</table>
 </div>
 
 <div style="height: 8px;"></div>
@@ -29,7 +58,7 @@
 <div style="height: 8px;"></div>
 
 <div align="center">
-  <img width="100%" alt="DonMohsen GitHub stats panel" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-stats-panel.svg?v=4"/>
+  <img height="195" alt="DonMohsen GitHub stats panel" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-stats-panel.svg?v=5"/>
 </div>
 
 <div style="height: 8px;"></div>
