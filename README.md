@@ -30,10 +30,9 @@
 
 <div style="height: 8px;"></div>
 
-<p align="center">
-  <img height="160" alt="DonMohsen's GitHub stats" src="https://github-readme-stats-erichare.vercel.app/api?username=DonMohsen&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=14b8a6&icon_color=14b8a6&text_color=768390&bg_color=00000000">
-  <img height="160" alt="Top languages" src="https://github-readme-stats-erichare.vercel.app/api/top-langs/?username=DonMohsen&layout=compact&hide_border=true&langs_count=8&hide=html,tex&title_color=14b8a6&text_color=768390&bg_color=00000000">
-</p>
+| ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=400&lines=GitHub+Stats) | ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=400&lines=Top+Languages) |
+| ----- | ----- |
+| <div align="center"><img width="100%" height="195" alt="DonMohsen's GitHub stats" src="https://github-readme-stats-erichare.vercel.app/api?username=DonMohsen&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=14b8a6&icon_color=14b8a6&text_color=768390&bg_color=00000000&card_width=500"/></div> | <div align="center"><img width="100%" height="195" alt="Top languages" src="https://github-readme-stats-erichare.vercel.app/api/top-langs/?username=DonMohsen&layout=compact&hide_border=true&langs_count=8&hide=html,tex&title_color=14b8a6&text_color=768390&bg_color=00000000&card_width=500"/></div> |
 
 <div style="height: 8px;"></div>
 
