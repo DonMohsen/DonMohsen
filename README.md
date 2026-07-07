@@ -30,19 +30,9 @@
 
 <div style="height: 8px;"></div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="42.5%" align="right" valign="middle">
-      <img width="100%" height="195" alt="DonMohsen's GitHub stats" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-stats.svg?v=3"/>
-    </td>
-    <td width="15%" align="center" valign="middle">
-      <img height="195" alt="DonMohsen's GitHub rank" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-rank.svg?v=3"/>
-    </td>
-    <td width="42.5%" align="left" valign="middle">
-      <img width="100%" height="195" alt="DonMohsen's top languages" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-top-langs.svg?v=3"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img width="100%" alt="DonMohsen GitHub stats panel" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-stats-panel.svg?v=4"/>
+</div>
 
 <div style="height: 8px;"></div>
 
