@@ -8,6 +8,7 @@ on:
   push:
     branches:
       - main
+      - mohsen
 
 permissions:
   contents: write
@@ -48,21 +49,29 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&title_color=62c1ec&text_color=62c1ec&icon_color=62c1ec&border_color=62c1ec&theme=chartreuse-dark&show=discussions_answered,prs_merged,reviews
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide_border=true&count_private=true&include_all_commits=true&title_color=14b8a6&icon_color=14b8a6&text_color=768390&bg_color=00000000&card_width=500
           path: assets/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate GitHub rank card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&hide=stars,commits,prs,issues,contribs&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&title_color=14b8a6&icon_color=14b8a6&text_color=768390&bg_color=00000000&card_width=150
+          path: assets/github-rank.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&title_color=62c1ec&text_color=62c1ec&border_color=62c1ec&theme=chartreuse-dark
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide=html,tex&hide_border=true&title_color=14b8a6&text_color=768390&bg_color=00000000&card_width=500
           path: assets/github-top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Validate generated stats cards
         run: |
-          for file in assets/github-stats.svg assets/github-top-langs.svg; do
+          for file in assets/github-stats.svg assets/github-rank.svg assets/github-top-langs.svg; do
             if grep -q "Something went wrong" "$file"; then
               echo "Error card detected in $file"
               exit 1
