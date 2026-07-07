@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=DynaPuff&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Mohsen+Khojasteh+nezhad+!;" />
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=DynaPuff&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Mohsen+Khojasteh+nezhad+!;" alt="Hello There! I'm Mohsen Khojasteh nezhad!" />
+</div>
 
 <div align="center">
 
@@ -14,11 +14,9 @@
 
 <div style="height: 8px;"></div>
 
-| ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Languages) | ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=280&lines=Frontend+%26+Mobile) | ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=280&lines=Backend+%26+Data) | ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=400&lines=Infrastructure+%26+Delivery) | ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=280&lines=AI+%26+Workflow) |
-| ----- | ---- | ---- | ---- | ---- |
-| <div align="center"><img src="https://skillicons.dev/icons?i=ts,js" title="TypeScript, JavaScript"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=nextjs,react" title="Next.js, React"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=express" title="Express"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=git,github,gitlab" title="Git, GitHub, GitLab"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=vscode,visualstudio" title="Visual Studio Code, Visual Studio"/></div> |
-| <div align="center"><img src="https://skillicons.dev/icons?i=html,css" title="HTML, CSS"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=flutter,kotlin" title="Flutter, Kotlin"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=dotnet" title="ASP.NET Core"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=docker,githubactions" title="Docker, GitHub Actions"/></div> | <div align="center"><img src="https://skills.syvixor.com/api/icons?i=claudeai,cursor" title="Claude Code, Cursor"/></div> |
-| <div align="center"><img src="https://skillicons.dev/icons?i=cs,python" title="C#, Python"/></div> | <div align="center"></div> | <div align="center"></div> | <div align="center"><img src="https://skillicons.dev/icons?i=ubuntu,debian" title="Ubuntu, Debian"/></div> | <div align="center"></div> | 
+<div align="center">
+  <img width="100%" alt="Tech stack" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/tech-stack-panel.svg?v=1"/>
+</div>
 
 <div style="height: 8px;"></div>
 
