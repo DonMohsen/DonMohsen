@@ -49,7 +49,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide_border=true&count_private=true&include_all_commits=true&title_color=14b8a6&icon_color=14b8a6&text_color=768390&bg_color=00000000&card_width=500
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide_border=true&count_private=true&include_all_commits=true&title_color=14b8a6&icon_color=14b8a6&text_color=768390&bg_color=00000000&card_width=320
           path: assets/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -69,9 +69,12 @@ jobs:
           path: assets/github-top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Compose full-width stats panel
+        run: node scripts/compose-stats-panel.mjs
+
       - name: Validate generated stats cards
         run: |
-          for file in assets/github-stats.svg assets/github-rank.svg assets/github-top-langs.svg; do
+          for file in assets/github-stats.svg assets/github-rank.svg assets/github-top-langs.svg assets/github-stats-panel.svg; do
             if grep -q "Something went wrong" "$file"; then
               echo "Error card detected in $file"
               exit 1
