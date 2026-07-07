@@ -30,9 +30,19 @@
 
 <div style="height: 8px;"></div>
 
-| ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=400&lines=GitHub+Stats) | ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=62c1ec&center=true&vCenter=true&repeat=false&random=false&width=400&lines=Top+Languages) |
-| ----- | ----- |
-| <div align="center"><img width="100%" height="195" alt="DonMohsen's GitHub stats" src="https://github-readme-stats-erichare.vercel.app/api?username=DonMohsen&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=14b8a6&icon_color=14b8a6&text_color=768390&bg_color=00000000&card_width=500"/></div> | <div align="center"><img width="100%" height="195" alt="Top languages" src="https://github-readme-stats-erichare.vercel.app/api/top-langs/?username=DonMohsen&layout=compact&hide_border=true&langs_count=8&hide=html,tex&title_color=14b8a6&text_color=768390&bg_color=00000000&card_width=500"/></div> |
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="42.5%" align="right" valign="middle">
+      <img width="100%" height="195" alt="DonMohsen's GitHub stats" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-stats.svg?v=3"/>
+    </td>
+    <td width="15%" align="center" valign="middle">
+      <img height="195" alt="DonMohsen's GitHub rank" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-rank.svg?v=3"/>
+    </td>
+    <td width="42.5%" align="left" valign="middle">
+      <img width="100%" height="195" alt="DonMohsen's top languages" src="https://raw.githubusercontent.com/DonMohsen/DonMohsen/output/github-top-langs.svg?v=3"/>
+    </td>
+  </tr>
+</table>
 
 <div style="height: 8px;"></div>
 
