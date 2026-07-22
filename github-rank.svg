@@ -1,0 +1,133 @@
+
+      <svg
+        width="150"
+        height="150"
+        viewBox="0 0 150 150"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        role="img"
+        aria-labelledby="descId"
+      >
+        <title id="titleId">DonMohsen's GitHub Rank, Rank: B</title>
+        <desc id="descId"></desc>
+        <style>
+          .header {
+            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+            fill: #14b8a6;
+            animation: fadeInAnimation 0.8s ease-in-out forwards;
+          }
+          @supports(-moz-appearance: auto) {
+            /* Selector detects Firefox */
+            .header { font-size: 15.5px; }
+          }
+          
+    .stat {
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #768390;
+    }
+    @supports(-moz-appearance: auto) {
+      /* Selector detects Firefox */
+      .stat { font-size:12px; }
+    }
+    .stagger {
+      opacity: 0;
+      animation: fadeInAnimation 0.3s ease-in-out forwards;
+    }
+    .rank-text {
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #768390;
+      animation: scaleInAnimation 0.3s ease-in-out forwards;
+    }
+    .rank-percentile-header {
+      font-size: 14px;
+    }
+    .rank-percentile-text {
+      font-size: 16px;
+    }
+    
+    .not_bold { font-weight: 400 }
+    .bold { font-weight: 700 }
+    .icon {
+      fill: #14b8a6;
+      display: none;
+    }
+
+    .rank-circle-rim {
+      stroke: #14b8a6;
+      fill: none;
+      stroke-width: 6;
+      opacity: 0.2;
+    }
+    .rank-circle {
+      stroke: #14b8a6;
+      stroke-dasharray: 250;
+      fill: none;
+      stroke-width: 6;
+      stroke-linecap: round;
+      opacity: 0.8;
+      transform-origin: -10px 8px;
+      transform: rotate(-90deg);
+      animation: rankAnimation 1s forwards ease-in-out;
+    }
+    
+    @keyframes rankAnimation {
+      from {
+        stroke-dashoffset: 251.32741228718345;
+      }
+      to {
+        stroke-dashoffset: 138.4077839754086;
+      }
+    }
+  
+  
+
+          
+      /* Animations */
+      @keyframes scaleInAnimation {
+        from {
+          transform: translate(-5px, 5px) scale(0);
+        }
+        to {
+          transform: translate(-5px, 5px) scale(1);
+        }
+      }
+      @keyframes fadeInAnimation {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+    
+          
+        </style>
+
+        
+
+        
+
+        
+
+        <g
+          data-testid="main-card-body"
+          transform="translate(0, 25)"
+        >
+          
+    <g data-testid="rank-circle"
+          transform="translate(85, 40)">
+        <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
+        <circle class="rank-circle" cx="-10" cy="8" r="40" />
+        <g class="rank-text">
+          
+        <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
+          B
+        </text>
+      
+        </g>
+      </g>
+    <svg x="0" y="0">
+      
+    </svg>
+  
+        </g>
+      </svg>
+    
